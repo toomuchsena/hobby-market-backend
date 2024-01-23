@@ -1,6 +1,7 @@
-# hobby-market-backend
-BLM3041 - Database Management Systems - Semester Project 
-This repository only contains backend
+# Hobby Market 
+## BLM3041 - Database Management Systems - Semester Project 
+
+- This repository only contains backend
 
 
 # Express API Starter with Typescript
